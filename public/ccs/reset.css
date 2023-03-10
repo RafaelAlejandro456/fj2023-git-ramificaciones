@@ -1,1 +1,5 @@
-/* @elbarto Iss53: Inicializa el margin, paddin y border a  de todos los elementos html*/
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
