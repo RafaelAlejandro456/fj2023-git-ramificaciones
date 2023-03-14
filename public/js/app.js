@@ -1,6 +1,6 @@
 function saludar()
 {
-    alert("Bienvenido extraño viajero");
+    alert("Bienvenido a sprinfield");
 }
 
 saludar();
